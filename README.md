@@ -8,3 +8,4 @@
 # Built in QT Creator using C++; some of the Stanford C++ libraries are utilized.
 >>>>>>> 4e9d4883935b13d418fa5732ae4bd68cdf21c1a7
 # 230_project
+# 230_project
